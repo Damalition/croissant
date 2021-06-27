@@ -1,0 +1,29 @@
+body {
+background-color: #ffbd5b;
+}
+
+h1, p {
+  text-align: center;
+} 
+
+a {
+  color: black;
+  
+}
+a:hover {
+  color:rgb(255, 153, 0) ;
+}
+
+img, .links {
+  display: block;
+  margin: 0 auto;
+}
+
+.links {
+  text-align: center;
+  padding: 15px;
+}
+
+.links a {
+  padding: 15px;
+}
